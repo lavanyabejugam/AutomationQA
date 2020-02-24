@@ -1,0 +1,39 @@
+Java basics
+
+1. Java datatypes, operators, flow control (okay)
+2. Arrays , collections
+3. Classes, constructors, methods, packages
+4. Abstraction, encapsulation, inheritance
+5. Polymorphism (overloading, overriding, dynamic binding) Abstract classes, interfaces
+6. string functions
+7. date functions, file operations
+8. Exception handling
+9. util package
+
+Day 1:
+
+General overview of Selenium Locators.
+Introduction to Selenium Web Driver and Selenium Server.
+Starting off with Selenium as a Java Project.
+Adding Jar file and importing the libraries.
+Basic actions over Web elements(click and sendkeys).
+Handling dropdowns.
+
+IE11 -> change browser zoom to 100% and make security levels to low and uncheck the "enable protected mode" checkbox
+
+Day 2:
+
+Waits in Selenium - implicit, explicit and fluent waits
+Actions class
+Validations(Text, color, background color)
+Quick overview on Asserts
+
+Day 3:
+
+File uploads
+Keyboard actions
+Mouse actions
+Handling Iframes and working with Nested Iframes
+Handling multiple tabs
+Handling popups
+Setting relative paths.
